@@ -1,0 +1,16 @@
+C:\RedFox\DataAnalysis.UI\DataAnalysis.UI\bin\Debug\DataAnalysis.UI.exe.config
+C:\RedFox\DataAnalysis.UI\DataAnalysis.UI\bin\Debug\DataAnalysis.UI.exe
+C:\RedFox\DataAnalysis.UI\DataAnalysis.UI\bin\Debug\DataAnalysis.UI.pdb
+C:\RedFox\DataAnalysis.UI\DataAnalysis.UI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\RedFox\DataAnalysis.UI\DataAnalysis.UI\obj\Debug\DataAnalysis.csproj.CoreCompileInputs.cache
+C:\RedFox\DataAnalysis.UI\DataAnalysis.UI\obj\Debug\DataAnalysis.UI.exe
+C:\RedFox\DataAnalysis.UI\DataAnalysis.UI\obj\Debug\DataAnalysis.UI.pdb
+C:\RedFox\DataAnalysis.UI\DataAnalysis.UI\obj\Debug\DataAnalysis.csprojResolveAssemblyReference.cache
+C:\RedFox\DataAnalysis\DataAnalysis\bin\Debug\DataAnalysis.UI.exe.config
+C:\RedFox\DataAnalysis\DataAnalysis\bin\Debug\DataAnalysis.UI.exe
+C:\RedFox\DataAnalysis\DataAnalysis\bin\Debug\DataAnalysis.UI.pdb
+C:\RedFox\DataAnalysis\DataAnalysis\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\RedFox\DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.csprojResolveAssemblyReference.cache
+C:\RedFox\DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.csproj.CoreCompileInputs.cache
+C:\RedFox\DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.UI.exe
+C:\RedFox\DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.UI.pdb
